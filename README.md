@@ -51,4 +51,4 @@ We are able to achieve an accuracy score of 87% and F1 score of 84% on the test 
 
 Credit to [Udacity](https://www.udacity.com/courses/all) for creating a happy learning experience.
 
-[Posted on Medium](https://medium.com/@akessela/predict-customer-churn-for-sparkify-945d373b5f3)
+[Click here to read the post on Medium](https://medium.com/@akessela/predict-customer-churn-for-sparkify-945d373b5f3)
