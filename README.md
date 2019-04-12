@@ -42,9 +42,11 @@ In this project we'll be performing the following tasks:
 * main_sparkify.py: python script extracted from the notebook
 
 ## Results<a name="results"></a>
+We have analysed the sparkify dataset and come up with new features to predict churn. We then created a machine learning model and tuned it to improve its performance. We achieved an accuracy score of - and F1 score of - on the test dataset. 
 
-Please see notebook for analysis and results.
+# Conclusion
+We are able to achieve an accuracy score of 83% and F1 score of 84% on the test dataset using the tuned Random Forest algorithm. The model peformance can be further improved by creating additional features and includiding some of the features that I have left out for this analysis. The model should also be tested using samples from the left out big dataset which hasn't been used for this analysis. Once we are satified with the result, a large scale of the model can be implemented on the cloud.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Credit to [UC Irvine](https://archive.ics.uci.edu/ml/datasets/Census+Income) for the data and   [Udacity](https://www.udacity.com/courses/all) for creating a beautiful learning experience.  Find the Licensing for the data and other descriptive information from [UC Irvine ML Repository](https://archive.ics.uci.edu/ml/datasets/Census+Income).
+Credit to [Udacity](https://www.udacity.com/courses/all) for creating a happy learning experience.
